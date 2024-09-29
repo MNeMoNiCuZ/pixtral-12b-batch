@@ -61,4 +61,4 @@ Describe everything about this image in detail without formatting
 
 # Known issues
 ## Not enough memory?
-You may want to run the model in Low VRAM mode: Set `LOW_VRAM_MODE=true` in batch.py
+You may want to run the model in Low VRAM mode: Set `LOW_VRAM_MODE=true` in `batch.py`
